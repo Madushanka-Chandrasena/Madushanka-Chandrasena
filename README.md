@@ -1,6 +1,10 @@
 <h1>Hey there, I'm <a  href="https://github.com/Madushanka-Chandrasena">Madushanka Chandrasena </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madushanka-chandrasena&label=Profile%20views&color=0e75b6&style=flat" alt="madushanka-chandrasena" /> </p>
+
 ---
+
 - 👀 I’m interested in somthing cool
 - 🌱 I’m currently learning OOP with Java
 - 💞️ I’m looking to collaborate on anyone
